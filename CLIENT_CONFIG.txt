@@ -1,0 +1,3 @@
+HOST = localhost
+PORT = 25566
+RES = 800
